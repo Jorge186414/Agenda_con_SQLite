@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Agenda SQLite</string>
+    <string name="crear_base_de_datos">Crear Base de Datos</string>
+</resources>
